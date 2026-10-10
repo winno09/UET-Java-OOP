@@ -1,0 +1,12 @@
+# Bỏ qua tất cả các file bytecode của Java
+*.class
+
+# Bỏ qua các thư mục chứa file biên dịch (nếu sau này dự án lớn hơn)
+/bin/
+/out/
+/build/
+
+# Bỏ qua các file cấu hình môi trường của IDE (VS Code, IntelliJ, Eclipse)
+.vscode/
+.idea/
+*.project
